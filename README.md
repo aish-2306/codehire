@@ -57,6 +57,7 @@ If you'd like to add new company scoring logic or features, open a PR or create 
 This project is licensed under the MIT License.
 
 🙌 Acknowledgements
+
     1. GroqAI
 
     2. Vercel
