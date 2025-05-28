@@ -21,10 +21,10 @@ Whether you're applying to FAANG, startups, or service-based companies, CodeHire
 
 | Layer         | Technology                        |
 |--------------|------------------------------------|
-| **Frontend**  | Next.js + Tailwind CSS             |
+| **Frontend**  | React.js + Tailwind CSS             |
 | **Backend**   | Node.js / Express (or Serverless) |
-| **AI Logic**  | OpenAI GPT + Custom Code Analyzers |
-| **Database**  | MongoDB / Firebase                 |
+| **AI Logic**  | OpenAI GPT + Custom Code Analyzers + Groq AI |
+| **Database**  | MongoDB / Firebase (PostgreSQL)                |
 | **Auth**      | Supabase / Google OAuth            |
 | **Hosting**   | Vercel                             |
 
@@ -57,15 +57,15 @@ If you'd like to add new company scoring logic or features, open a PR or create 
 This project is licensed under the MIT License.
 
 🙌 Acknowledgements
-GroqAI
+    1. GroqAI
 
-Vercel
+    2. Vercel
 
-Supabase
+    3. Supabase
 
-GitHub
+    4. GitHub
 
-Neon
+    5. Neon
 
 ## 🚀 Getting Started Locally
 
