@@ -22,7 +22,7 @@ Whether you're applying to FAANG, startups, or service-based companies, CodeHire
 | Layer         | Technology                        |
 |--------------|------------------------------------|
 | **Frontend**  | React.js + Tailwind CSS             |
-| **Backend**   | Node.js / Express (or Serverless) |
+| **Backend**   | Node.js / Express  |
 | **AI Logic**  | OpenAI GPT + Custom Code Analyzers + Groq AI |
 | **Database**  | MongoDB / Firebase (PostgreSQL)                |
 | **Auth**      | Supabase / Google OAuth            |
